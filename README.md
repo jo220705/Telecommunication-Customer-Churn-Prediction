@@ -2,7 +2,7 @@
 
 ## 📸 Project Preview
 
-![Project Screenshot](project_output.png)
+![Project Screenshot](screenshots/project_output.png)
 
 ## 📌 Project Overview
 
