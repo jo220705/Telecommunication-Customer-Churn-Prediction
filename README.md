@@ -1,5 +1,9 @@
 # 📡 Telecommunication Customer Churn Prediction System
 
+## 📸 Project Preview
+
+![Project Screenshot](project_output.png)
+
 ## 📌 Project Overview
 
 This project is a Machine Learning based web application that predicts whether a telecommunication customer is likely to stay or churn based on customer information.
